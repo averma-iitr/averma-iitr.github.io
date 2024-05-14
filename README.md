@@ -1,2 +1,4 @@
-# averma.github.io
-Website for project demo
+# Akash Verma
+### Skizaa Education | Inidian Institute of Technology, Roorkee
+
+> Projects
